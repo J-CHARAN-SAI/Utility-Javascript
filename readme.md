@@ -4,7 +4,7 @@ ________________________________
 
 # Setup and Getting Started
 
-We have created a dummy project for you. You’ll need `nodejs` pre installed to run this. Please check if it's installed by running `which node` on your terminal which should give you the path of `node`. If instead it comes up with a message like `node not found` then you should look online on how to install node. As such `brew install node` should work.
+We have created a dummy project for you. You’ll need `nodejs` pre installed to run this. Please check if it's installed by running `which node` on your terminal which should give you the path of `node`. If instead it comes up with a message like `node not found` then you should look online on how to install node. As such `brew install node` should work (if you're using Mac).
 
 _________________________________
 
