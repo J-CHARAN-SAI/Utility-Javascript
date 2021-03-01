@@ -1,4 +1,4 @@
-It’s time to get our hands dirty with Javascript. Now that you have heard about TDD, went through the Curator course and even saw your trainers do it, let see if we can transfer our learning to another world of Javascript. 
+It’s time to get our hands dirty with Javascript. Now that you have heard about TDD, let see if we can transfer our learning to another world of Javascript. 
 
 ________________________________
 
